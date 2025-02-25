@@ -348,7 +348,7 @@ struct CharacterValidator;
 
 impl CharacterValidator {
     pub fn is_line_terminator(ch: char) -> bool {
-        ch == '\x0A' || ch == '\x0D' || ch == '\u{2028}' || ch == '\u{2029}'
+        ch == '\x0A' || ch == '\x0D'
     }
 }
 
