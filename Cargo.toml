@@ -1,9 +1,9 @@
 [package]
-name = "realhydroper-sourcetext"
-version = "1.0.1"
+name = "hydroperx-sourcetext"
+version = "1.0.0"
 edition = "2021"
-authors = ["realhydroper <hydroperfox@gmail.com>"]
-repository = "https://github.com/realhydroper/rustsourcetext"
+authors = ["hydroperx <hydroperfox@gmail.com>"]
+repository = "https://github.com/hydroperx/sourcetext.rs"
 keywords = ["source", "text"]
 description = "Source text containing line locations."
 license = "Apache-2.0"
